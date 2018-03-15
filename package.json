@@ -1,0 +1,28 @@
+{
+  "name": "eth-token-mappings",
+  "version": "1.0.0",
+  "description": "ETH token mappgins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cointrage/eth-token-mappings.git"
+  },
+  "keywords": [
+    "eth",
+    "token",
+    "mappings"
+  ],
+  "author": "Alexey Melnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cointrage/eth-token-mappings/issues"
+  },
+  "homepage": "https://github.com/cointrage/eth-token-mappings#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
